@@ -5,4 +5,4 @@ The following repository contains:
 4) The original db exported, where all data is stored monthly.
 5) The Power BI dashboard that we use for daily insights.
 6) A workflow diagram.
-7) A revenue report of the data collected from July to December
+7) A revenue report of the data collected from July to November
